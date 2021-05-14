@@ -1,0 +1,11 @@
+patch:
+  switches/@next:
+    name: unv_suggestion
+    reset: 1
+    states: ["大人", "幼女"]
+  'engine/filters/@after last':
+    simplifier@unv_suggestion
+  unv_suggestion:
+    opencc_config: unv.json
+    option_name: unv_suggestion
+    tips: all

@@ -2,6 +2,15 @@
 
 虽然叫输⼊法，但其实是 [rime](https://rime.im/) 的补丁啦。
 
+安装之后可以让rime获得使⽤幼⼥Code打字的能⼒！
+
+
+## 幼⼥Code是什么？
+
+幼⼥Code是⼀款先进的反和谐⼯具，通过替换unicode中相似字形的字符，可以对付⼤部分平台对⽂本的机器审查。
+
+项⽬链接在这⾥: <https://github.com/RimoChan/unvcode>
+
 
 ## 效果
 
